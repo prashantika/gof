@@ -1,0 +1,5 @@
+This is sample file
+this is added in gof folder in local deskptop, git folder
+git add . does stagging
+git commit does changes in local git repo
+git push does reflect changes in remote repo
